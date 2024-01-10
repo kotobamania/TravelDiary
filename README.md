@@ -2,7 +2,7 @@
 
 Travel Diary // blog site
 
-![Screenshot 1](/image/screenshot1.png) ![Screenshot 2](/image/screenshot2.png) ![Screenshot 3](/image/screenshot3.png)
+![Screenshot 1](/public/images/screenshot1.png) ![Screenshot 2](/public/images/screenshot2.png) ![Screenshot 3](/public/images/screenshot3.png)
 
 ## Table of Contents
 
